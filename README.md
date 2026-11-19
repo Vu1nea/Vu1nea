@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Mushpoint and a Semantic Recipe Searcher with Ingredient tags
 - 🌱 I’m currently learning semantic search
 - 👯 I’m looking to collaborate on any interesting project
-- 📫 How to reach me: (linkedin)[https://www.linkedin.com/in/vinodh-gnanakkan-bba72a343/]
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/vinodh-gnanakkan-bba72a343/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I looooove chocolate
 
